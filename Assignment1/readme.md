@@ -8,7 +8,7 @@ The losses that soil pathogens and pests cause are partly because the causal org
 It is, therefore, crucial to detect incidence of pest and disease attacks as soon as possible.
 
 **System Summary:**
-The Smart Planter monitors the soil ecosystem inside the pot and root system of the plant that's potted in the same soil media. The planter achieves this by having an MCU interfaced with multiple sensors that maintain contact with the soil and a wireless backhaul that bidirectionally streams data to a server which enables the user to interact with the planter using an app. The planter has two power sources to choose from: solar or wired supply from a wall plug.
+The Smart Planter monitors the soil ecosystem inside the pot and root system of the plant that's potted in the same soil media. The planter achieves this by having an MCU interfaced with multiple sensors that maintain contact with the soil and a wireless backhaul that bidirectionally streams data to a server which enables the user to interact with the planter using an app. The planter has two power sources to choose from: solar or wired supply from a wall plug. The solar panel will be placed throughout the outer surface of the pot, so that the user can rotate the pot in whichever direction they want for the plant to grow towards (or for uniform growth).
 
 Before using the planter, the user enters the following in the app :
 
